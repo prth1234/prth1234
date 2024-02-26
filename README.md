@@ -10,7 +10,7 @@
 <h2>Skills</h2>
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Java Version](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 ![C++ Language](https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C Language](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![R Language](https://img.shields.io/badge/R-blueviolet?style=for-the-badge&logo=r&logoColor=white)
