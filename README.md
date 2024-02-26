@@ -69,7 +69,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pxrthye/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1HIC0l8Q_cSws3g_deDscHHKaZRaY52Rj/view?usp=sharing)
 
-<br>
+
+<h2>Websites</h2>
+
 🛠️ [Overview-Website](https://prth1234.github.io/my-website/) <br>
 🛠️ [Project-Website](https://prth1234.github.io/my-projects/) <br>
 [Portfolio-Website](https://prth1234.github.io/happy-lemon-portoflio/)
