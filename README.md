@@ -1,22 +1,6 @@
-### Hi there 👋 I am [Parth](https://github.com/prth1234)
+### Hi there 👋 I am [Parth](https://github.com/prth1234) (he/him)
 
-About Me
-
-- 🔭 I’m currently working in ... <br>
-Finvolv as a Backend Engineer Intern
-- 🌱 I’m currently learning .. <br>
-Sring Boot, BitBucket, PostgreSQL, Linux Shell 
-- 👯 I’m looking to collaborate on ... <br>
-Cloud, DevOps, Web3.0, 3D Modelling for design and games <br>
--    Resume <br>
-https://drive.google.com/file/d/1HIC0l8Q_cSws3g_deDscHHKaZRaY52Rj/view?usp=sharing
-- 😄 Pronouns: 
-he/him
-- Contact me
-1. LinkedIn: https://www.linkedin.com/in/parthsingh2002/
-2. Phone #: +91-920-576-7228
-3. Email: dearparthsingh@gmail.com
-
+### About Me
 
 #### Highly motivated B. Tech. (Final Year) - Computer Science & Engineering (CSE) student & a technology enthusiast with a passion for finding innovative solutions to simple & complex problems using technology. Proactive problem solver with excellent technical, people & communication skills. Excellent foundation in programming, algorithms, data structures, data analytics & AI/ML. Looking forward to opportunities to learn & contribute to domains like SDE, DevOps, AI/ML, BI, CV, NLP, Cloud Technologies, AR/VR.
 
@@ -34,7 +18,8 @@ he/him
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
-More 
+<h2>More</h2>
+ 
 
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-lightgreen?style=for-the-badge&logo=spring)](https://spring.io/projects/spring-boot)
 [![Flask](https://img.shields.io/badge/Flask-blue?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
@@ -77,9 +62,9 @@ More
 <!-- ![ExpressJS](https://img.shields.io/badge/Express.js-292c33?style=flat-square&logo=express&logoColor=white) -->
 
 
-Links:
+<h2>Links</h2>
 
-<a href="https://www.linkedin.com/in/parthsingh2002/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> <br>
+<a href="https://www.linkedin.com/in/parthsingh2002/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
 <a href="https://www.instagram.com/pxrthye/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <br>
 🛠️ [Overview-Website](https://prth1234.github.io/my-website/) <br>
 🛠️ [Project-Website](https://prth1234.github.io/my-projects/) <br>
