@@ -36,16 +36,17 @@ he/him
 
 More 
 
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-lightgreen?style=for-the-badge&logo=spring)](https://spring.io/projects/spring-boot)
 [![Flask](https://img.shields.io/badge/Flask-blue?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
 [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-orange?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
+[![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)](https://www.postman.com/)
 [![Jinja](https://img.shields.io/badge/Jinja-purple?style=for-the-badge&logo=jinja)](https://palletsprojects.com/p/jinja/)
 [![ML](https://img.shields.io/badge/ML-red?style=for-the-badge&logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-yellow?style=for-the-badge&logo=opencv)](https://opencv.org/)
-[![NLTK](https://img.shields.io/badge/NLTK-pink?style=for-the-badge&logo=nltk)](https://www.nltk.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-pink?style=for-the-badge&logo=python)](https://www.nltk.org/)
 [![PySpark](https://img.shields.io/badge/PySpark-teal?style=for-the-badge&logo=apache-spark)](https://spark.apache.org/)
 [![Databricks](https://img.shields.io/badge/Databricks-lightblue?style=for-the-badge&logo=databricks)](https://databricks.com/)
-[![Agile](https://img.shields.io/badge/Agile-darkgreen?style=for-the-badge&logo=agile)](https://www.agilealliance.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)](https://www.tableau.com/)
 [![PowerBI](https://img.shields.io/badge/PowerBI-green?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
@@ -57,6 +58,8 @@ More
 [![MongoDB](https://img.shields.io/badge/MongoDB-lightblue?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![Neo4J](https://img.shields.io/badge/Neo4J-darkgreen?style=for-the-badge&logo=neo4j)](https://neo4j.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/)
+[![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)](https://www.figma.com/)
+
 
 
 <!-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -74,38 +77,11 @@ More
 <!-- ![ExpressJS](https://img.shields.io/badge/Express.js-292c33?style=flat-square&logo=express&logoColor=white) -->
 
 
-
-<h2>Platforms</h2>
-
-
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-<hr>
-  
-
-<h2>Stats</h2>
-<div align="center"> <br>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyLordHitsHard&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MyLordHitsHard&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-<hr>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MyLordHitsHard&color=green)
-
-
-
-
 Links:
 
-<a href="https://www.linkedin.com/in/himanshu-dutt-702b72200/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> <br>
+<a href="https://www.linkedin.com/in/parthsingh2002/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> <br>
+<a href="https://www.instagram.com/pxrthye/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <br>
+
 -[Portfolio](https://feellord.netlify.app/) <br>
 -[Portfolio test](https://portfolio-sing.onrender.com/) <br>
 -[Project to join online class](https://mylordhitshard.github.io/CS411) <br>
