@@ -81,7 +81,7 @@ Links:
 
 <a href="https://www.linkedin.com/in/parthsingh2002/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> <br>
 <a href="https://www.instagram.com/pxrthye/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <br>
-[Project-Website](https://prth1234.github.io/my-website/)
-[Overview-Website](https://prth1234.github.io/my-projects/)
+🛠️ [Overview-Website](https://prth1234.github.io/my-website/) <br>
+🛠️ [Project-Website](https://prth1234.github.io/my-projects/) <br>
 [Portfolio-Website](https://prth1234.github.io/happy-lemon-portoflio/)
 
