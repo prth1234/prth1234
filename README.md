@@ -44,6 +44,9 @@
 [![Neo4J](https://img.shields.io/badge/Neo4J-darkgreen?style=for-the-badge&logo=neo4j)](https://neo4j.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/)
 [![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)](https://www.figma.com/)
+[![ReactJS](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+
 
 
 
