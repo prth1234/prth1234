@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Parth](https://github.com/prth1234) (he/him)
+### Hi there 👋 I am [Parth](https://prth1234.github.io/my-website/) (he/him)
 
 ### About Me
 
