@@ -2,7 +2,7 @@
 
 ### About Me
 
-#### Highly motivated B. Tech. (Final Year) - Computer Science & Engineering (CSE) student & a technology enthusiast with a passion for finding innovative solutions to simple & complex problems using technology. Proactive problem solver with excellent technical, people & communication skills. Excellent foundation in programming, algorithms, data structures, data analytics & AI/ML. Looking forward to opportunities to learn & contribute to domains like SDE, DevOps, AI/ML, BI, CV, NLP, Cloud Technologies, AR/VR. Starting my career as a SDE Intern @ [Finvolv](https://finvolv.ai/)
+#### Highly motivated B. Tech. (Final Year) - Computer Science & Engineering (CSE) student & a technology enthusiast with a passion for finding innovative solutions to simple & complex problems using technology. Proactive problem solver with excellent technical, people & communication skills. Excellent foundation in programming, algorithms, data structures, data analytics & AI/ML. Looking forward to opportunities to learn & contribute to domains like SDE, DevOps, AI/ML, BI, CV, NLP, Cloud Technologies, AR/VR. Starting my career as an SDE Intern @ [Finvolv](https://finvolv.ai/)
 
 <br>
 <hr>
