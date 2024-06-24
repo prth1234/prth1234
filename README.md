@@ -77,7 +77,7 @@
 
 [Overview-Website](https://prth1234.github.io/my-website/) <br>
 [Project-Website](https://prth1234.github.io/my-projects/) <br>
-🛠️ [Portfolio-2024-Website](https://prth1234.github.io/portfolio-2024/) 
-[Old-Portfolio-Website](https://prth1234.github.io/happy-lemon-portoflio/)<br>
+🛠️ [Portfolio-2024-Website](https://prth1234.github.io/portfolio-2024/) <br>
+[Old-Portfolio-Website](https://prth1234.github.io/happy-lemon-portoflio/)
 
 
