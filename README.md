@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I'm+Parth;Welcome+to+my+GitHub!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Github+👋;Welcome+to+My+Github+👋;Welcome+to+My+Github+👋&center=true&size=30">
 </h1>
 
 ### Hi there 👋 I am [Parth](https://prth1234.github.io/my-website/) (he/him)
