@@ -6,7 +6,10 @@
 
 ### About Me
 
-#### Highly motivated B. Tech Computer Science & Engineering (CSE) student & a technology enthusiast with a passion for finding innovative solutions to simple & complex problems using technology. Proactive problem solver with excellent technical, people & communication skills. Excellent foundation in programming, algorithms, data structures, data analytics & AI/ML. Looking forward to opportunities to learn & contribute to domains like SDE, DevOps, AI/ML, BI, CV, NLP, Cloud Technologies, AR/VR. Starting my career as an ASWE in Flexera (Snow Software).
+### Highly motivated and results-driven B.Tech - Computer Science & Engineering (CSE) graduate and technology enthusiast with hands-on experience in
+software development and a passion for finding innovative solutions to complex problems using technology. Proactive problem solver with excellent technical,
+people, and communication skills. Strong foundation in programming, algorithms, data structures, data analytics, AI/ML, and cloud technologies. Looking
+forward to opportunities to learn and contribute to domains like SDE, DevOps, Cloud, Databases, and AI/ML.
 
 <br>
 <hr>
