@@ -6,7 +6,8 @@
 
 ### About Me
 
-#### Highly motivated and results-driven B.Tech - Computer Science & Engineering (CSE) graduate and technology enthusiast with hands-on experience in software development and a passion for finding innovative solutions to complex problems using technology. Proactive problem solver with excellent technical, people, and communication skills. Strong foundation in programming, algorithms, data structures, data analytics, AI/ML, and cloud technologies. Looking forward to opportunities to learn and contribute to domains like SDE, DevOps, Cloud, Databases, and AI/ML.
+### Results-oriented, driven, and detail-oriented B.Tech CSE graduate with a proven track record of translating complex technical concepts into impactful software solutions. Leveraging a robust foundation in algorithms, data structures, and programming, I excel at developing efficient and scalable applications. My passion extends to exploring and implementing cutting-edge technologies like AI/ML and cloud computing to solve real-world challenges.  With strong communication and problem-solving skills, I'm eager to contribute to dynamic teams focused on SDE, DevOps, or AI/ML development, driving innovation and delivering measurable results.
+
 <br>
 <hr>
 
