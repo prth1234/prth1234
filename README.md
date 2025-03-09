@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I'm+Parth;Welcome+to+my+GitHub!&center=true&size=30">
 </h1>
 
-### Hi there 👋 I am [Parth](https://prth1234.github.io/my-website/) (he/him)
+## Hi there 👋 I am [Parth](https://prth1234.github.io/my-website/) (he/him)
 
-### About Me
+## About Me
 
-### Results-oriented, driven, and detail-oriented B.Tech CSE graduate with a proven track record of translating complex technical concepts into impactful software solutions. Leveraging a robust foundation in algorithms, data structures, and programming, I excel at developing efficient and scalable applications. My passion extends to exploring and implementing cutting-edge technologies like AI/ML and cloud computing to solve real-world challenges.  With strong communication and problem-solving skills, I'm eager to contribute to dynamic teams focused on SDE, DevOps, or AI/ML development, driving innovation and delivering measurable results.
+#### Results-oriented and driven B.Tech CSE graduate with a proven track record of translating complex technical concepts into impactful software solutions. Leveraging a robust foundation in algorithms, data structures, and programming, I excel at developing efficient and scalable applications. My passion extends to exploring and implementing cutting-edge technologies like AI/ML and cloud computing to solve real-world challenges.  With strong communication and problem-solving skills, I'm eager to contribute to dynamic teams focused on SDE, DevOps, or AI/ML development, driving innovation and delivering measurable results.
 
 <br>
 <hr>
