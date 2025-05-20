@@ -1,6 +1,61 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I'm+Parth;Welcome+to+my+GitHub!&center=true&size=30">
-</h1>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180">
+  <style>
+    .typing-text {
+      font-family: 'Arial', sans-serif;
+      font-size: 30px;
+      font-weight: bold;
+      text-anchor: middle;
+      fill: #00cc00; /* Green color */
+      animation: blink 0.75s infinite;
+    }
+    
+    @keyframes blink {
+      0% { opacity: 1; }
+      50% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    
+    #text1, #text2, #text3 {
+      opacity: 0;
+    }
+    
+    #text1 {
+      animation: typing1 3s linear forwards, blink 0.75s infinite;
+    }
+    
+    #text2 {
+      animation: typing2 3s linear 3s forwards, blink 0.75s 3s infinite;
+    }
+    
+    #text3 {
+      animation: typing3 3s linear 6s forwards, blink 0.75s 6s infinite;
+    }
+    
+    @keyframes typing1 {
+      0% { opacity: 0; }
+      10% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    
+    @keyframes typing2 {
+      0% { opacity: 0; }
+      10% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    
+    @keyframes typing3 {
+      0% { opacity: 0; }
+      10% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+  </style>
+  
+  <rect width="100%" height="100%" fill="transparent" />
+  
+  <text id="text1" x="400" y="60" class="typing-text">Hi there 👋</text>
+  <text id="text2" x="400" y="100" class="typing-text">I'm Parth</text>
+  <text id="text3" x="400" y="140" class="typing-text">Welcome to my GitHub!</text>
+</svg>
 
 ## Hi there 👋 I am [Parth](https://prth1234.github.io/my-website/) (he/him)
 
