@@ -24,15 +24,27 @@
 
 <h2>More</h2>
  
-
+[![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=langchain)](https://www.langchain.com/langgraph)
+[![CrewAI](https://img.shields.io/badge/CrewAI-purple?style=for-the-badge)](https://www.crewai.com/)
+[![AutoGen](https://img.shields.io/badge/AutoGen-blue?style=for-the-badge)](https://github.com/microsoft/autogen)
+[![LangFuse](https://img.shields.io/badge/LangFuse-orange?style=for-the-badge)](https://langfuse.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)](https://openai.com/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-green?style=for-the-badge)](https://www.pinecone.io/)
+[![OpenSearch](https://img.shields.io/badge/OpenSearch-blue?style=for-the-badge&logo=opensearch)](https://opensearch.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-lightgreen?style=for-the-badge&logo=spring)](https://spring.io/projects/spring-boot)
 [![Flask](https://img.shields.io/badge/Flask-blue?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
 [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
+[![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)](https://redis.io/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-orange?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
 [![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)](https://www.postman.com/)
 [![Jinja](https://img.shields.io/badge/Jinja-purple?style=for-the-badge&logo=jinja)](https://palletsprojects.com/p/jinja/)
 [![ML](https://img.shields.io/badge/ML-red?style=for-the-badge&logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-yellow?style=for-the-badge&logo=opencv)](https://opencv.org/)
+[![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge)](https://grpc.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)](https://www.terraform.io/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-yellow?style=for-the-badge&logo=grafana)](https://grafana.com/)
 [![NLTK](https://img.shields.io/badge/NLTK-pink?style=for-the-badge&logo=python)](https://www.nltk.org/)
 [![PySpark](https://img.shields.io/badge/PySpark-teal?style=for-the-badge&logo=apache-spark)](https://spark.apache.org/)
 [![Databricks](https://img.shields.io/badge/Databricks-lightblue?style=for-the-badge&logo=databricks)](https://databricks.com/)
