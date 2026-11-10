@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I'm+Parth;Welcome+to+my+GitHub!&center=true&size=30&color=gradient&background=00000000&gradient=FF00F7,A15FFD,0074E4,00FFC2,FFFD56">
 </h1>
 
-## Hi there 👋 I am [Parth]([https://prth1234.github.io/my-website/](https://portfolio-2025-two-ecru.vercel.app/) (he/him)
+## Hi there 👋 I am [Parth]([https://prth1234.github.io/my-website/](https://portfolio-2025-two-ecru.vercel.app/)) (he/him)
 
 ## About Me
 
